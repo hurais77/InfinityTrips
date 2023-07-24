@@ -1,0 +1,28 @@
+.title {
+  font-size: 10vmin;
+  font-family: 'Belanosima';
+  text-decoration: none;
+}
+.navbar-title {
+  font-size: 6vmin;
+  font-family: 'Belanosima';
+}
+.navbar-title a{
+  text-decoration: none;
+  color: black;
+}
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+.title a {
+  text-decoration: none;
+  color: black;
+}
+.underlined {
+  text-decoration: underline;
+  text-underline-offset: 2vh;
+  text-decoration-color: aqua;
+  text-decoration-thickness: 0.5vh;
+  font-weight: bold;
+}

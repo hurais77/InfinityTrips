@@ -1,0 +1,56 @@
+.launch_title {
+  position: relative;
+  top: 20%;
+  text-align: center;
+  font-size: 15vmin;
+  font-family: 'Belanosima';
+  color: white;
+}
+.black_links a {
+  text-decoration: none;
+  color: black;
+  font-size: 4vmin;
+  font-family: 'Belanosima';
+}
+.black_links li {
+  font-size: 20px;
+}
+.black_links {
+  list-style-type: none;
+  position: relative;
+  left: 80%;
+  top: 15%;
+}
+.screenin {
+  opacity: 1;
+  transform: translate(0);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.screenout {
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(10vmin);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.hamburger {
+  position: relative;
+  left: 90%;
+  top: 5%;
+  position: relative;
+  color: white;
+  font-size: 8vmin;
+  font-weight: bolder;
+}
+.launch_title img {
+  position: relative;
+  bottom: 1vh;
+  width: 15vmin;
+}
+.quote {
+  position: relative;
+  color: white;
+  top: 20vh;
+  text-align: center;
+}
