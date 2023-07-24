@@ -19,6 +19,7 @@ Main
 
 ![Alt text](/screenshots/home.jpg?raw=true "Main")
 
+
 ![Alt text](/screenshots/cityFilter.jpg?raw=true "Main_2")
 
 Checkout
@@ -26,7 +27,9 @@ Checkout
 ![Alt text](/screenshots/checkout.jpg?raw=true "Checkout")
 
 Payment
+
 ![Alt text](/screenshots/payment.jpg?raw=true "Payment")
 
 Success
+
 ![Alt text](/screenshots/successful_payment.jpg?raw=true "Success")
