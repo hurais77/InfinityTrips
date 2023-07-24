@@ -1,2 +1,3 @@
 node_modules
-Pipfile*
+__pycache__
+Pip*
