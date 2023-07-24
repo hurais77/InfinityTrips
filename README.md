@@ -4,4 +4,4 @@ A full stack hotel booking website made using ReactJs as a frontend and Django a
 #Screenshots
 
 Login Page
-![Alt text](/screenshots/login.jpeg")
+![Alt text](/screenshots/login.jpg?raw=true "Login")
